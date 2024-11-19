@@ -1,4 +1,4 @@
-# Style transfert
+# Color distribution transfert
 
 Examples:
 We want to have the lake image the same color distribution of the fire image, this make the lake look orange/red:
